@@ -1,0 +1,1 @@
+getcomputerchoice('rock', 'scissors', 'paper')
